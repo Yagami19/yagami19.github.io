@@ -1,6 +1,7 @@
 #!/bin/sh
 # Tag and push a release.
 
+
 set -e
 
 # Make sure we're in the project root.

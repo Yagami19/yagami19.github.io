@@ -3,6 +3,7 @@
 
 require "w3c_validators"
 
+
 def validator(file)
   extension = File.extname(file)
   if extension == ".html"
