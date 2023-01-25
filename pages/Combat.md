@@ -30,7 +30,6 @@ The project focused of creating rough AI for flying starships and a way to manip
 * * *
 
 ## Screenshots
-<!-- --> 
 
 {% include carousel.html height="50" unit="%" duration="9999" number="1" %}
 

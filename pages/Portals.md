@@ -29,7 +29,7 @@ Work can be expanded to create fully functional game.
 
 ## Screenshots
   
-  {% include carousel.html height="50" unit="%" duration="9999" number="1" %}
+{% include carousel.html height="50" unit="%" duration="9999" number="1" %}
   
 Screenshots showcase portals in work and some level concepts. It is hard to capture the essence of the project as video would be needed.
 
@@ -37,7 +37,7 @@ Screenshots showcase portals in work and some level concepts. It is hard to capt
 
 ## Code snippets
 
-  {% include carousel.html height="50" unit="%" duration="9999" number="2" %}
+{% include carousel.html height="50" unit="%" duration="9999" number="2" %}
 
 Scripts show usage of second camera and render texture to give the portal illusion and how it behaves when player moves around it. After that there is a simple teleport function in Unity3D that moves player across space.
 
