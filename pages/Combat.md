@@ -2,11 +2,11 @@
 layout: default
 carousels:
   - images: 
-    - image: /assets/images/Combat/Combat01.png
-    - image: /assets/images/Combat/Combat02.png
-    - image: /assets/images/Combat/Combat03.png
-    - image: /assets/images/Combat/Combat04.png
-    - image: /assets/images/Combat/Combat05.png
+    - image: /assets/images/Combat/01.png
+    - image: /assets/images/Combat/02.png
+    - image: /assets/images/Combat/03.png
+    - image: /assets/images/Combat/04.png
+    - image: /assets/images/Combat/05.png
   - images: 
     - image: /assets/images/Combat/CombatCode/01.png
     - image: /assets/images/Combat/CombatCode/02.png
@@ -30,8 +30,9 @@ The project focused of creating rough AI for flying starships and a way to manip
 * * *
 
 ## Screenshots
-  
-  {% include carousel.html height="50" unit="%" duration="9999" number="1" %}
+<!-- --> 
+
+{% include carousel.html height="50" unit="%" duration="9999" number="1" %}
 
 On screenshots there is fully working main menu with basic functions. The game does not look super exciting but it was made with only basic assets in Unity3D.
 
