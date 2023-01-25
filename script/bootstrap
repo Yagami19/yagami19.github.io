@@ -1,6 +1,9 @@
-#!/bin/sh
+sh '''
 
 set -e
 
 gem install bundler
 bundle install
+
+
+'''
