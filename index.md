@@ -6,9 +6,9 @@ carousels:
     - image: /assets/images/UeKatNavi/04.png
     - image: /assets/images/UeKatNavi/06.png
   - images: 
-    - image: /assets/images/Combat/03.png
-    - image: /assets/images/Combat/04.png
-    - image: /assets/images/Combat/05.png
+    - image: /assets/images/Combat/Combat03.png
+    - image: /assets/images/Combat/Combat04.png
+    - image: /assets/images/Combat/Combat05.png
   - images: 
     - image: /assets/images/Portals/01.png
     - image: /assets/images/Portals/03.png
