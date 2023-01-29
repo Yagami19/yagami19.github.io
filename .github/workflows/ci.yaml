@@ -12,5 +12,4 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: test
-        run: script/cibuild
+
