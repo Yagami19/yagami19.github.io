@@ -56,6 +56,6 @@ For more information check the github link below.
 * * *
 
 ## Github Link
-[![GithubLogo](/assets/images/github-icon.svg) **Repository on github**](https://github.com/Yagami19/FitCat)
+[![GithubLogo](/assets/images/icons/github-icon.svg) **Repository on github**](https://github.com/Yagami19/FitCat)
 
 Link leads to an external site.

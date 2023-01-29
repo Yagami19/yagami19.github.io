@@ -44,6 +44,6 @@ Scripts show usage of second camera and render texture to give the portal illusi
 * * *
 
 ## Github Link
-[![GithubLogo](/assets/images/github-icon.svg) **Repository on github**](https://github.com/Yagami19/Licencjat)
+[![GithubLogo](/assets/images/icons/github-icon.svg) **Repository on github**](https://github.com/Yagami19/Licencjat)
 
 Link leads to an external site.

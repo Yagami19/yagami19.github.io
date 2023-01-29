@@ -63,7 +63,7 @@ It has practical purposes of making my cat fit by calculating correct amount of 
  
 * * *
 
-### [ProceduralLevelGeneration](./pages/ProceduralGeneration.html)
+### [Procedural Level Generation](./pages/ProceduralGeneration.html)
 
 This project is a successful attempt to create a script that allows to procedurally generate levels for the game that was a group project.
 
@@ -77,14 +77,4 @@ Simple top down shooter made from free assests and blueprint system.
 
   {% include carousel.html height="50" unit="%" duration="7" number="6" %}
 
-* * *
 
-### [Quizaifu](./pages/another-page.html)
-
-TBA
-
-* * *
-
-### [PiGenerator](another-page.html)
-
-TBA

@@ -56,6 +56,6 @@ For navigation the best option was to use built in NavMesh instead of implementi
 * * *
 
 ## Github Link
-[![GithubLogo](/assets/images/github-icon.svg) **Repository on github**](https://github.com/Yagami19/NaviApp)
+[![GithubLogo](/assets/images/icons/github-icon.svg) **Repository on github**](https://github.com/Yagami19/NaviApp)
 
 Link leads to an external site.

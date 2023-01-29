@@ -54,7 +54,7 @@ For more information check Github link below
 * * *
 
 ## Github Link
-[![GithubLogo](/assets/images/github-icon.svg) **Repository on github**](https://github.com/Yagami19/Combat3D)
+[![GithubLogo](/assets/images/icons/github-icon.svg) **Repository on github**](https://github.com/Yagami19/Combat3D)
 
 Link leads to an external site.
 

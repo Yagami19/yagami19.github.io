@@ -35,7 +35,7 @@ For more information check the github link below, as code snippets were not incl
 * * *
 
 ## Github Link
-[![GithubLogo](/assets/images/github-icon.svg) **Repository on github**](https://github.com/Yagami19/CorpoShooter)
+[![GithubLogo](/assets/images/icons/github-icon.svg) **Repository on github**](https://github.com/Yagami19/CorpoShooter)
 
 Link leads to an external site.
 
